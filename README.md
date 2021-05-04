@@ -82,12 +82,16 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - [x] DNSEnum   
 - [x] MassDNS
 
+- Port Scanning
+- [x] Nmap
+
 ## What Coming In The Version 2.0.0
 
 - Parameter Fuzzing
 - CVE Scanning
 - Subdomain Screenshot
 - IoT Search Engines Discovery
+
 
 ## Installation
 
