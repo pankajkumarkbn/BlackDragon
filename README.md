@@ -81,6 +81,7 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - [x] DNSMap
 - [x] DNSEnum   
 - [x] MassDNS
+- [x] Gobuster
 
 - Port Scanning
 - [x] Nmap
