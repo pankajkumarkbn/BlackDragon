@@ -120,6 +120,62 @@ Simply:
 
 > Note: DO NOT Add http:// or https:// In The Domain, The Tool Do This Automatically
 
+## Tool Output Example
+
+<pre>
+cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
+
+                                         `.-:/+oosssoo+/::-.
+                                    `:oydmNNMMMMMMMMMMMMMNNNmdyo/-`
+                                   -dNMMMMMMMMMMMMMMMMMMMMMMMMMMMNmh+-`
+                                    ........-:/oydNMMMMMMMMMMMMMMMMMMNms:`
+                                           .:os  `.yMMMMMMMMMMMMMMMMMMMMNd+`
+                                         :ymMm/ ``.oMMMMMMMMMMMMMMMMMMMMMMMm/
+                                   ..++yhNMMMmmmmmmMMMMMMMMMMMMMMMMMMMMMMMMMMh.
+                                `/ymNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs:omd.
+                              .smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/  `+y`
+                             /NdoyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/   .-
+                            `NMddNMMMMMMNmNMddddmNNMMMMMMMMMMMMMMMMMMMMMMMMMy-
+                            `oddddhyso/-.`.-` ```.-:ohNMMMMMMMMMMMMMMMMMMMMMMNy-
+                              ```     ``..            .+dMMMMMMMMMMMMMMMMMMMMMMNo
+                                  ./ohdmmo```..         `/mMMMMMMMMMMMMMMMMMMMMMMs
+                               .+hNMMMMMMNmmmmm:.....`    .dMMMMMMMMMMMMMMMMMMMMMM-
+                             `omMMNNmmmNNMMMMMMMNmmm+-.    `mMMMMMMMMMMMMMMMMN+:yM/
+                            `hMmy/-.....-:/ohmNMMMMo        +MMMMMMMMMMMMMMMMh  `m`
+                            sMd.             `-sNMMs        -MMMMMMMMMMMMMMMMs  ..
+                            NM+                 .yMN        +MMMMMMMMMMMMMMMM/
+                            NMh`                 `hm       .mMMMMMMMMMMMMMMMm`
+                            sMMy.                 --      :mMMMMMMMMMMMMMMMM/
+                            `dMMNs-`                   `:yMMMMMMMMMMdymMMMN+
+                             .hMMMMds/-.`         `.-+ymMMMMMMMMMMNo` hMMm:
+                               +mMMMMMMNdhyysssyyhdNMMMMMMMMMMMMms.  +Mmo`
+                                `/ymMMMMMMMMMMMMMMMMMMMMMMMMNmh/`   +s:`
+                                   `:ohmNNMMMMMMMMMMMMNNNdy+:`
+                                        .-:/+osssso++/:.`
+
+			          An Automated Tool For Web-Recon
+					Developed By Momen Ali
+					    The CyberGuy
+						v-1.0
+
+
+
+====================================
+               Banner                  
+====================================
+
+[+] Target Domain => google.com
+[+] Date => 05-05-2021
+[+] Current User => cyber-guy
+
+-------------------------------------
+
+[+] Current Recon Path: => /home/cyber-guy/BlackDragon/google.com/05-05-2021
+
+====================================
+
+</pre>
+
 Stay Secure ;)
 
 M 💕 N
