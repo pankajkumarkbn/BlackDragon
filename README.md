@@ -86,6 +86,11 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - Port Scanning
 - [x] Nmap
 
+## What's New In This Version ?
+- Fxing Massdns Installation Bugs In The [Install Script]
+- Fixing Sublist3r Installation Bugs In The [Install Script]
+- Fixing Bad Spilling In The [Tool Script]
+
 ## What Coming In The Version 2.0.0
 
 - Parameter Fuzzing
@@ -182,12 +187,6 @@ M 💕 N
 
 <hr>
 
-##What's New In This Version ?
-- Fxing Massdns Installation Bugs In The [Install Script]
-- Fixing Sublist3r Installation Bugs In The [Install Script]
-- Fixing Bad Spilling In The [Tool Script]
-
-<hr>
 
 ## [GPL V3 License](https://github.com/Cyber-Guy1/BlackDragon/blob/main/LICENSE.md) 
 <img src="gplv3-with-text-136x68.png">
