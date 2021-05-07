@@ -86,12 +86,12 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - Port Scanning
 - [x] Nmap
 
-## What's New In This Version ?
+## What's New In This Version [1.1] ?
 - Fxing Massdns Installation Bugs In The [Install Script]
 - Fixing Sublist3r Installation Bugs In The [Install Script]
 - Fixing Bad Spilling In The [Tool Script]
 
-## What Coming In The Version 2.0.0
+## What Coming In The Version [2.0] ?
 
 - Parameter Fuzzing
 - CVE Scanning
