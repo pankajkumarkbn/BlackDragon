@@ -1,4 +1,4 @@
-# Black-Dragon V-1.0
+# Black-Dragon V-1.1
 An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 
 <center>
@@ -156,7 +156,7 @@ cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
 			          An Automated Tool For Web-Recon
 					Developed By Momen Ali
 					    The CyberGuy
-						v-1.0
+						v-1.1
 
 
 
@@ -179,6 +179,13 @@ cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
 Stay Secure ;)
 
 M 💕 N
+
+<hr>
+
+##What's New In This Version ?
+- Fxing Massdns Installation Bugs In The [Install Script]
+- Fixing Sublist3r Installation Bugs In The [Install Script]
+- Fixing Bad Spilling In The [Tool Script]
 
 <hr>
 
