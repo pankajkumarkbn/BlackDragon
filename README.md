@@ -183,7 +183,6 @@ cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
 
 Stay Secure ;)
 
-M 💕 N
 
 <hr>
 
