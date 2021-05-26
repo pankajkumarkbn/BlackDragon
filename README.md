@@ -1,4 +1,4 @@
-# Black-Dragon V-1.1
+# Black-Dragon V-1.2
 An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 
 <center>
@@ -86,10 +86,9 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - Port Scanning
 - [x] Nmap
 
-## What's New In This Version [1.1] ?
-- Fxing Massdns Installation Bugs In The [Install Script]
-- Fixing Sublist3r Installation Bugs In The [Install Script]
-- Fixing Bad Spilling In The [Tool Script]
+## What's New In This Version [1.2] ?
+- Fxing Knockpy Error [Directory Not Writeable]
+
 
 ## What Coming In The Version [2.0] ?
 
@@ -161,7 +160,7 @@ cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
 			          An Automated Tool For Web-Recon
 					Developed By Momen Ali
 					    The CyberGuy
-						v-1.1
+						v-1.2
 
 
 
