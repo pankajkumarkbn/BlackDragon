@@ -1,4 +1,4 @@
-# Black-Dragon V-1.2
+# Black-Dragon V2.0
 An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 
 <div align="center">
@@ -165,8 +165,14 @@ cyber-guy@Security:~/BlackDragon$ ./Black-Dragon google.com
 			          An Automated Tool For Web-Recon
 					Developed By Momen Ali
 					    The CyberGuy
-						v-1.2
+						v-2.0
 
+                                         _    __________ _  __
+                                        | |  / /  _/ __ | |/ /
+                                        | | / // // /_/ |   / 
+                                        | |/ _/ // ____/   |  
+                                        |___/___/_/   /_/|_|  
+                      
 
 
 ====================================
