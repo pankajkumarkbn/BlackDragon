@@ -129,7 +129,13 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 
 ## Installation
 
-Simply After Cloning The Repository By Typing :
+### Be Sure To Delete The Previous Version The Install The New
+
+First Delete The Previous Version If Exists:
+
+`rm -rf BlackDragon`
+
+Then Simply After Cloning The Repository By Typing :
 
 `git clone https://github.com/Cyber-Guy1/BlackDragon.git` 
 
