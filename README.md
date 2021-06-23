@@ -1,4 +1,4 @@
-# Black-Dragon V2.0
+# Black-Dragon V2.0 [VIPX Edition]
 An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 
 <div align="center">
@@ -58,6 +58,14 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - [x] Subfinder
 - [x] Sublist3r
 - [x] Amass
+
+	- Enum:
+		- Active Recon 
+		- Passive Recon
+		
+	- Intel:
+		- Active Recon
+	
 - [x] Assetfinder
 - [x] Knockpy
 - [x] github-subdomains
@@ -65,7 +73,7 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 
 - Getting The Whole Subdomain Gathered Then Filter The Unique Domains And Extract The Only Live Subdomain Using:
 
-- [x] httprobe
+- [x] httpx
 
 
 - Fuzzing The Application Target Based Using:
@@ -89,19 +97,35 @@ When You Wanna Make A Powerfull Recon, You Should Also Look At:
 - [x] Gobuster
 
 - Port Scanning
-- [x] Nmap
+- [x] rustscan
 
-## What's New In This Version [1.2] ?
-- Fxing Knockpy Error [Directory Not Writeable]
+## What's New In This Version [2.0] ?
 
+- Bug Fixes
 
-## What Coming In The Version [2.0] ?
+- Amass Enum Passive & Active Recon
 
-- Parameter Fuzzing
-- CVE Scanning
-- Subdomain Screenshot
-- IoT Search Engines Discovery
+- Amass Intel Passive & Active Recon
 
+- Domains Ports Discovery & Screen Shootig
+
+- Vulnerability Scanning:
+
+	- CVE Scanning
+	- Workflow Scanning
+	- Default-Logins Scanning
+	- Takeovers Scanning
+	- Exposed Panels Scanning
+
+- IoT Search Engine Recon [Shodan]:
+	
+	- Domain Info Gathering
+	- Host Info Gathering
+	- Honeypot Checker
+
+- HTTP & HTTPS Filtering
+
+- Smarter Functionalities 
 
 ## Installation
 
