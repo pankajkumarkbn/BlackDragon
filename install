@@ -93,11 +93,7 @@ wget https://golang.org/dl/go1.16.3.linux-amd64.tar.gz;
 
 printf "\n\n"
 
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.16.3.linux-amd64.tar.gz;
-
-printf "\n\n"
-
-export PATH=$PATH:/usr/local/go/bin;
+sudo apt install golang
 
 printf "\n\e[31mGo Version:  \e[0m"
 
