@@ -15,8 +15,6 @@ This Tool Works In Linux Systems, Specially In Debian & Debian Based Systems Lik
 
 1. Kali Linux
 2. Parrot OS
-3. Ubuntu
-4. Debian
 5. Back Box
 
 And Other Debian Based Linux Distro's
