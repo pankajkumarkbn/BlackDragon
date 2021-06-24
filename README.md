@@ -11,7 +11,9 @@ An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 
 It's A Tool To Automate The Web Reconnaissance Proccess, Which Make It Easier To Gather Informations About Your Target. This Tool Will Help You In Your Bug Hunting Or Web Penetration Testing Operation Because It Not Only Gather Informations About The Target, But Also It Arranges All These Information In A Structed Way Which Makes You Analyse The Data In A Good Way.
 
-This Tool Works In Linux Systems, Specially In Debian & Debian Based Systems Like:
+This Tool Works In Linux Systems, Specially In Debian & Debian Based Systems.
+
+Tested On:
 
 1. Kali Linux
 2. Parrot OS
