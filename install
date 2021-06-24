@@ -255,7 +255,7 @@ git clone https://gitlab.com/kalilinux/packages/dnsmap.git
 
 cd ~/BlackDragon/BD-Tools/dnsmap
 
-sudo make
+sudo make install
 
 cd ~/BlackDragon/BD-Tools/
 
@@ -265,7 +265,7 @@ git clone https://gitlab.com/kalilinux/packages/dnsenum.git
 
 cd ~/BlackDragon/BD-Tools/dnsenum
 
-sudo make
+sudo make install
 
 cd ~/BlackDragon/BD-Tools/
 
