@@ -168,8 +168,10 @@ else
 
 	chmod 777 knockpy-deep/
 
+	printf "\n\n[         \e[93mDeep Scan Mode Is Enabled  \e[0m        ]\n\n"
 
-	knockpy "$domain" --no-http -o knockpy-deep
+
+	knockpy "$domain" -o knockpy-deep
     else
         printf "\n\n[ Choise Is Out Of Range ] Exit ...\n\n"
     fi
