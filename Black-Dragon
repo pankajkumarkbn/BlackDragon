@@ -479,7 +479,7 @@ read choose_WL
 
 if [[ $choose_WL == 1 ]]; then
 
-    gobuster dns -d "$domain" -w /usr/share/wordlists/dirb/common.txt -o gobuster-DNS-D-$domain.txt --wildcard
+    gobuster dns -u "$domain" -w /usr/share/wordlists/dirb/common.txt -o gobuster-DNS-D-$domain.txt --wildcard
 
 elif [[ $choose_WL == 2 ]]; then
     printf "\n{$USER}@Black-Dragon: Enter The Full Path Of The Wordlist => " read wordlist
@@ -490,7 +490,7 @@ elif [[ $choose_WL == 2 ]]; then
 
     else
 
-        gobuster dns -d "$domain" -w $wordlist -o gobuster-DNS-C-$domain.txt --wildcard
+        gobuster dns -u "$domain" -w $wordlist -o gobuster-DNS-C-$domain.txt --wildcard
 
     fi
 fi
